@@ -1,0 +1,10 @@
+n1=int(input("enter a number "))
+n2=int(input("enter another number "))
+a=n1+n2
+s=n1-n2
+m=n1*n2
+d=n1/n2
+print("addition is=",a)
+print("subtraction is=",s)
+print("multiplication is=",m)
+print("division is=",d)
